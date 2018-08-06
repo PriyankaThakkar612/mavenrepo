@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyImagePickerApp</string>
+    <string name="select_image">Select Image</string>
+    <string name="activity_title_image_picker">ImagePicker</string>
+    <string name="take_photo">Capture Image</string>
+    <string name="open_gallery">Select From Gallery</string>
+    <string name="cancel">Cancel</string>
+    <string name="permission_enable_camera">Enable Camera Permission.</string>
+    <string name="ok">OK</string>
+    <string name="permission_enable_sdcard">Enable Storage permission.</string>
+    <string name="path">Image Path: </string>
+    <string name="permission_necessary">Permission necessary</string>
+</resources>
