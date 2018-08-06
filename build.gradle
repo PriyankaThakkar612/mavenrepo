@@ -6,7 +6,7 @@ buildscript {
         google()
         jcenter()
         maven {
-            url "https://github.com/PriyankaThakkar612/mavenrepo/image"
+            url "https://github.com/PriyankaThakkar612/mavenrepo"
         }
     }
     dependencies {
